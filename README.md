@@ -1,6 +1,6 @@
 ### Hello! I'm Hsiao Ting! :")))
 
-- 🌺 AY20/21: Year One NUS student
+- 🌺 AY20/21: Year Three NUS student
 - 🌸 Major: Computer Science
 - 🌼 Goal: To build more projects!!!
 - ☘️ 2018 - 2019: Hwa Chong Institution
