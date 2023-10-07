@@ -1,11 +1,12 @@
 ### Hello! I'm Hsiao Ting! :")))
 
-- 🌺 AY22/23: Year Three NUS student
-- 🌸 Major: Computer Science
-- 🌼 Goal: To build more projects!!!
-- ☘️ 2018 - 2019: Hwa Chong Institution
-- ❄️ 2014 - 2017: Anglican High School
-- 🧬 Fun Fact: I am both a Taiwanese and Singaporean!
+- 🌺 AY23/24: Year Four NUS student (Graduating)
+- 🌸 Major: Computer Science, specialising in Software Engineering and Multimedia Information Retrieval~
+- 🌼 Minor: Interactive Media Development
+- ☘️ Goal: To build more projects!!!
+- ❄️ 2018 - 2019: Hwa Chong Institution
+- 🔮 2014 - 2017: Anglican High School
+- 🧬 Fun Fact: I am a Singaporean born in Taiwan!
 
 ### Connect with me:
 
