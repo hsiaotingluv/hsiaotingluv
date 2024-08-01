@@ -1,7 +1,7 @@
 ### Hello! I'm Hsiao Ting! :")))
 
-- 🌺 AY23/24: Year Four NUS student (Graduating)
-- 🌸 Major: Computer Science, specialising in Software Engineering and Multimedia Information Retrieval~
+- 🌺 2024: Graduated from National University of Singapore (NUS) with a Bachelor of Computing in Computer Science
+- 🌸 2020-2024: NUS, Computer Science, specialising in Software Engineering and Multimedia Information Retrieval, with a Minor in Interactive Media Development~
 - 🌼 Minor: Interactive Media Development
 - ☘️ Goal: To build more projects!!!
 - ❄️ 2018 - 2019: Hwa Chong Institution
