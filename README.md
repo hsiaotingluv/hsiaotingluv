@@ -1,6 +1,10 @@
 ### Hello! I'm Hsiao Ting! :")))
 
-- 🌺 2020-2024: Studying Computer Science at National University of Singapore (NUS)
+- Software Engineer at Meta
+- Masters in AI / ML at Georgia Institute of Technology
+---
+- 💎 2024 - 2026: Software Engineer at Visa
+- 🌺 2020-2024: Computer Science at National University of Singapore (NUS)
 - 🌸 Major: Computer Science, specialising in Software Engineering and Multimedia Information Retrieval~
 - 🌼 Minor: Interactive Media Development
 - ☘️ Goal: To build more projects!!!
@@ -10,8 +14,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Hsiao Ting | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Hsiao Ting | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Hsiao Ting | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
