@@ -1,17 +1,16 @@
-# Hello! I'm Hsiao Ting 👋☺️
+# Hello! I'm Hsiao Ting 👋
 
 > Building AI. Growing Communities.
 
 I'm a Software Engineer at Meta, building Business AI and agentic systems that help turn AI into real-world impact.
 
-Outside of work, I enjoy building side projects, contributing to developer communities, and sharing what I learn along the way :)
+Outside of work, I build open-source TypeScript libraries for marketplace and payment infrastructure — and share what I learn along the way.
 
-### Currently exploring
+### Currently building
 
-- Agentic Systems
-- Business AI
-- AI Developer Tools
-- Tech Communities
+- OSS TypeScript libraries for marketplace infrastructure (publishing soon)
+- Agentic systems and developer tools
+- Business AI applications
 
 ---
 
@@ -20,7 +19,6 @@ Outside of work, I enjoy building side projects, contributing to developer commu
 - 👩🏻‍💻 Software Engineer @ Meta
 - 🎓 MS in AI / ML @ Georgia Tech
 - 🌸 B.Comp in Computer Science @ National University of Singapore
-- 🤝 Organizer @ Google Developer Group Singapore
 - 🌱 Always building, always learning
 
 ### Connect with me
