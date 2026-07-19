@@ -4,11 +4,10 @@
 
 I'm a Software Engineer at Meta, building Business AI and agentic systems that help turn AI into real-world impact.
 
-Outside of work, I build open-source TypeScript libraries for marketplace and payment infrastructure — and share what I learn along the way.
+Outside of work, you'll usually find me at a tech meetup, conference, or community event. I love meeting new people who are building cool things and sharing what I learned along the way :)
 
 ### Currently building
 
-- OSS TypeScript libraries for marketplace infrastructure (publishing soon)
 - Agentic systems and developer tools
 - Business AI applications
 
@@ -16,10 +15,10 @@ Outside of work, I build open-source TypeScript libraries for marketplace and pa
 
 ### A little about me
 
-- 👩🏻‍💻 Software Engineer @ Meta
+- 👩🏻‍💻 Software Engineer @ Meta (Ex Visa, GovTech, Accenture)
 - 🎓 MS in AI / ML @ Georgia Tech
-- 🌸 B.Comp in Computer Science @ National University of Singapore
-- 🌱 Always building, always learning
+- 🌸 B.Comp in Computer Science @ National University of Singapore (NUS Scholar)
+- 🌱 Always building, always learning :)
 
 ### Connect with me
 
